@@ -4,7 +4,5 @@ I am a dedicated student at McMaster University pursuing a Bachelor of Engineeri
 
 Feel free to reach me at mahadhassan375@gmail.com if you would like to connect, send me project ideas, or even become friends!
 
-<!---
-mahadhsn/mahadhsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
