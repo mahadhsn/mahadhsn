@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **mahadhassan375@gmail.com**
 
+- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/a116p6r9caocz451il9ju/MahadResume.pdf?rlkey=25dqxh55qe667yi9xe9rqjq4m&dl=0](https://www.dropbox.com/scl/fi/a116p6r9caocz451il9ju/MahadResume.pdf?rlkey=25dqxh55qe667yi9xe9rqjq4m&dl=0)
+
+- ⚡ Fun fact **I play guitar!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahad-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahad-hassan" height="30" width="40" /></a>
