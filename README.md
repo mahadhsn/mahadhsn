@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahad</h1>
-<h3 align="center">A Software Engineer Student at McMaster University</h3>
+<h3 align="center">An Honours Software Engineering Student at McMaster University</h3>
 
 - 🌱 I’m currently learning **Machine Learning!**
 
