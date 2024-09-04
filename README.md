@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hassam87@mcmaster.ca**
 
-- 📄 Know about my experiences [RESUME]([https://www.dropbox.com/scl/fi/a116p6r9caocz451il9ju/MahadResume.pdf?rlkey=25dqxh55qe667yi9xe9rqjq4m&dl=0](https://github.com/mahadhsn/mahadhsn/blob/main/mahadresumé.pdf))
+- 📄 Know about my experiences [https://github.com/mahadhsn/mahadhsn/blob/main/mahadresumé.pdf](https://github.com/mahadhsn/mahadhsn/blob/main/mahadresumé.pdf)
 
 - ⚡ Fun fact **I love music and play guitar!**
 
