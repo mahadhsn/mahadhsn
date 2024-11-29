@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **hassam87@mcmaster.ca**
 
-- 📄 Check out my resume in the PDF in this repo!
-
 - ⚡ Fun fact **I love music and play guitar!**
 
 <h3 align="left">Connect with me:</h3>
