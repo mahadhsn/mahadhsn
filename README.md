@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Python**
 
+- 📄 Check out my resume attached in this repository!
+
 - 📫 How to reach me **hassam87@mcmaster.ca**
 
 - ⚡ Fun fact **I love music and play guitar!**
