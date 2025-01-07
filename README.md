@@ -34,4 +34,4 @@
 
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=mahadhsn&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count: ](https://komarev.com/ghpvc/?username=mahadhsn)
