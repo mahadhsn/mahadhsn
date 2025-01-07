@@ -34,4 +34,4 @@
 
 </p>
 
-![Visitor Count: ](https://komarev.com/ghpvc/?username=mahadhsn)
+![Visitor Count: ](https://komarev.com/ghpvc/?username=mahadhsn&color=red&abbreviated=true)
