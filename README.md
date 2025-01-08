@@ -12,7 +12,7 @@ For the off-chance I'm not coding, I'm probably 🏔️
 - staring at the stars
 - coding anyway lol
 
-Learn more about me on my [website](https://www.mahadhssn.com)!
+Learn more about me on my [website](https://www.mahadhssn.com)
 
 ### Skills
 
