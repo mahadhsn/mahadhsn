@@ -23,7 +23,7 @@ Learn more about me on my [website](https://www.mahadhssn.com)!
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,tailwind,nodejs,django,react,express)](https://skillicons.dev) <p></p>
 
 **Tech & Tools**<p></p>
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,anaconda,github,git,maven,vim,aws)](https://skillicons.dev) <p></p>
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,anaconda,github,git,maven,vim,aws,notion)](https://skillicons.dev) <p></p>
 
 ### Reach out!
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mahadhassan.hello@gmail.com)
