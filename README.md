@@ -28,7 +28,15 @@ For the off-chance I'm not coding, I'm probably 🏔️
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mahadhassan.hello@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mahad-hassan/)
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahadhsn/mahadhsn/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahadhsn/mahadhsn/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mahadhsn/mahadhsn/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
 
 ![Visitor Count: ](https://komarev.com/ghpvc/?username=mahadhsn&color=red&abbreviated=true)
