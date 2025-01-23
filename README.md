@@ -39,4 +39,4 @@ For the off-chance I'm not coding, I'm probably 🏔️
 <br>
 
 
-![Visitor Count: ](https://komarev.com/ghpvc/?username=mahadhsn&color=red&abbreviated=true)
+![Visitor Count: ](https://komarev.com/ghpvc/?username=mahadhsn&color=blue&abbreviated=true)
