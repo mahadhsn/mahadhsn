@@ -12,8 +12,8 @@ For the off-chance I'm not coding, I'm probably 🏔️
 - exploring the great outdoors
 - learning how to better myself
 - coding anyway lol
-
-### Onto The Coding Realm!
+---
+### Onto The Software Realm!
 
 <div align="left">
   <picture>
