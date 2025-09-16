@@ -6,6 +6,7 @@ Most of the time, you'll catch me coding up something ~~not so~~ revolutionary l
 - [an app](https://www.mahadhssn.com/logbook/sclerocare) for patients
 - [cybersecurity systems](https://github.com/mahadhsn/MacEngComp24)
 - my [portfolio](https://www.mahadhssn.com) :)
+- the [ses website](https://ses.eng.mcmaster.ca)
 
 
 For the off-chance I'm not coding, I'm probably 🏔️
