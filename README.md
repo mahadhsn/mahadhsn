@@ -4,7 +4,7 @@ I'm an Honours Software Engineering Student at McMaster University 🦅
 
 Most of the time, you'll catch me coding up something ~~not so~~ revolutionary like 💻
 - [an app](https://www.mahadhssn.com/logbook/sclerocare) for patients
-- [cybersecurity systems](https://github.com/mahadhsn/MacEngComp24)
+- [natural disaster support app](https://natural-disaster-map.vercel.app)
 - my [portfolio](https://www.mahadhssn.com) :)
 - the [ses website](https://ses.eng.mcmaster.ca)
 
