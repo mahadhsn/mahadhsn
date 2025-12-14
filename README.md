@@ -10,7 +10,7 @@ Most of the time, you'll catch me coding up something ~~not so~~ revolutionary l
 
 
 For the off-chance I'm not coding, I'm probably 🏔️
-- taking pictures
+- [taking pictures](https://www.mahadhssn.com/logbook)
 - exploring the great outdoors
 - learning how to better myself
 - coding anyway lol
